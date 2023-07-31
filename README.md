@@ -1,4 +1,4 @@
-# House-Price-Prediction
+# Housing-Price-Prediction
 ## Overview
 This repository contains code for a housing price prediction project. The goal of this project is to predict housing prices based on various features of the house. This is a competition on Kaggle, Here is the link to this competition [Click here](https://www.kaggle.com/competitions/home-data-for-ml-course)
 
